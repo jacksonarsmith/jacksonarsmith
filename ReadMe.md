@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a recent graduate with an Honours Bachelor of Computer Science from Carleton University, residing in Ottawa, Ontario, Canada. Currently, I am actively engaged in the development of full-stack applications, employing diverse technology stacks, for both personal projects and collaborations with local enterprises in my capacity as a freelance software engineer. Eager to contribute my technical expertise and problem-solving acumen, I am actively pursuing new opportunities within the industry to further augment my skill set and serve as a valuable asset to a progressive organization.
 
+- 🌐 Portfolio: You can check out my portfolio [here](https://next-portfolio-ecru-beta.vercel.app).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jackson-smith-a221b81a1/) 
